@@ -1,0 +1,6 @@
+{
+  "requestInterval": 900,
+  "retryMultiplier": 120,
+  "retryPowerBase": 1.61,
+  "retryPowerExponentMax": 10
+}
